@@ -6,7 +6,7 @@
   tpl: about.html
   css:
 
-id: education
+- id: education
   i18n: nav.education
   name: Education
   tpl: education.html
