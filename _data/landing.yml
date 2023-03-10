@@ -9,7 +9,7 @@
 - id: education
   i18n: nav.education
   name: Education
-  tpl: education.html
+  tpl: career.html
   css: timeline
 
 - id: career
