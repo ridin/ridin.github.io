@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C++, Java, Python, SQL, Machine Learing, Computer Vision, Web
-percentage: 85, 75, 65, 80, 75, 80, 65
+aspects: C++, Java, Python, SQL, Machine Learning, Computer Vision, Java Web, Android
+percentage: 85, 75, 65, 80, 75, 80, 65, 75
