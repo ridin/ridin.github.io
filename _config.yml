@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Rui Geng  # Be used at blog posts' author.
   first_name: Rui  # Be used at index page about me section.
   last_name: Geng  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/photo.jpg  # upload your avatar at directory and edit it.
   github_username: ridin  # Leave blank if you don't have now
   linkedin_id: rui-geng-391b85206 # Leave blank if you don't have now
   facebook_username: profile.php?id=100072474578213  # Leave blank if you don't have now
