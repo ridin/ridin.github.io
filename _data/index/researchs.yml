@@ -5,17 +5,17 @@
   i18n: app
   gh_user: app
   repo: app
-  #img: /static/assets/img/landing/7.jpg
-  desc: Applied traditional CV technology, such as feature extraction and processing, BOVW (Bag of Visual Words) and statistical learning techniques, like Mini-Batch K-means, SVM into existing neural network model, to optimize time efficiency and reduce the demand for space within limited resources of PC
+  img: /static/assets/img/landing/7.jpg
+  desc: Applied traditional CV technology, such as feature extraction and processing, BOVW (Bag of Visual Words) and statistical learning techniques, like Mini-Batch K-means, SVM into existing neural network model, to optimize time efficiency and reduce the demand for space within limited resources of PC.
 
 - name: An Improved Helmet Detection Method for YOLOv3 on an Unbalanced Dataset
   i18n: cpython
   gh_user: python
   repo: cpython
-  #img: /static/assets/img/landing/8.jpg
-  desc: Optimized YOLOv3 on unbalanced data sets
-        Built an image loader, read ordinary .jpg pictures into VOC data set; used Gaussian blur for image enhancement
-        Applied blurred images for neural network training, thus avoiding the impact of data set imbalance
+  img: /static/assets/img/landing/8.jpg
+  desc: Optimized YOLOv3 on unbalanced data sets.\n
+        Built an image loader, read ordinary .jpg pictures into VOC data set; used Gaussian blur for image enhancement.\n
+        Applied blurred images for neural network training, thus avoiding the impact of data set imbalance.
 
 
 #- name: Google
