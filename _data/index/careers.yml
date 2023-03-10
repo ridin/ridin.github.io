@@ -4,7 +4,7 @@
     detail: Dalian University of Technology
     i18n: dalian_university_of_technology
   desc:
-    detail: Responsible for the optimization and iteration of computer vision-related models in project scenarios, including fine-grained classification of commodity images, commodity object recognition, commodity subject recognition, feature extraction, logo detection, brand recognition, etc.
+    detail: Responsible for the optimization and iteration of computer vision-related models in project scenarios, including fine-grained classification of commodity images, commodity object recognition, commodity subject recognition, feature extraction, logo detection, brand recognition.
     i18n: dalian_university_of_technology_desc
   date:
     detail: September 2018 - May 2021
