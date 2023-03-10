@@ -9,7 +9,7 @@
 - id: education
   i18n: nav.education
   name: Education
-  tpl: career.html
+  tpl: education.html
   css: timeline
 
 - id: career
@@ -31,9 +31,9 @@
   css: project
 
 - id: research
-  i18n: nav.Research
+  i18n: nav.research
   name: Research
-  tpl: projects.html
+  tpl: research.html
   css: project
 
 - id: blog
