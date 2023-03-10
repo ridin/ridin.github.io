@@ -12,9 +12,9 @@
   i18n: cpython
   gh_user: python
   repo: cpython
-  img: /static/assets/img/landing/jekyll.png
-  desc: Optimized YOLOv3 on unbalanced data sets./
-        Built an image loader, read ordinary .jpg pictures into VOC data set; used Gaussian blur for image enhancement./
+  img: /static/assets/img/landing/python.png
+  desc: Optimized YOLOv3 on unbalanced data sets. \n\
+        Built an image loader, read ordinary .jpg pictures into VOC data set; used Gaussian blur for image enhancement. \n\
         Applied blurred images for neural network training, thus avoiding the impact of data set imbalance.
 
 
