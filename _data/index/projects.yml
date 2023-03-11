@@ -1,22 +1,61 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/7.jpg
-  desc: This project is my project. I use Javascript to get repo's information all my repos have only one request.
+- name: Intelligent Commodity Settlement System
+  i18n: intelligent
+  gh_user: intelligent
+  repo: intelligent
+  img: /static/assets/img/landing/Python-logo-notext.svg.png
+  desc: Coded of Object Recognition and Android APP, applied CNN & RNN Model and yolo v3 for training recognition of coke and other objects, and utilized zxing framework for QR code recognition.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/8.jpg
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Edutainment-based Children’s Educational Application based on Augmented Realityhon
+  i18n: ar
+  gh_user: ar
+  repo: ar
+  img: /static/assets/img/landing/ar.jpg
+  desc: Adopted Unity and C# language to program dynamic image block of AR products, coded for collision detection and image calling, fulfill my task of testing.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/9.jpg
-  desc: This is another project.
+- name: Fami (WeChat mini program for Collaborative Editing Journal between Multiple People)
+  i18n: fami
+  gh_user: fami
+  repo: fami
+  img: /static/assets/img/landing/wechat.png
+  desc: Cooperated with teammates to develop Fami (WeChat mini program), an electronic diary book for multiplayer online collaborative editing. Took responsibility of database design and maintenance, programming interface, writing Impact function.
+
+- name: Java Database Management System and Student Course Selection System
+  i18n: dbms
+  gh_user: dbms
+  repo: dbms
+  img: /static/assets/img/landing/Java_logo.png
+  desc: It supports simple SQL sentences created by myself (Automata), index, cache, network and multithreading. Ensure correct course selection through multi-threaded synchronization and locking mechanism.
+
+- name: Java Web Voting System
+  i18n: web
+  gh_user: web
+  repo: web
+  img: /static/assets/img/landing/java-web-development.png
+  desc: Use Tomcat and Nginx to achieve load balancing and disaster recovery backup.
+
+- name: To Do List Android APP
+  i18n: android
+  gh_user: android
+  repo: android
+  img: /static/assets/img/landing/clear-your-mind-1008.png
+  desc: It uses Java to implement task lists that can be managed individually.
+
+- name: Parallel Random Forest
+  i18n: parallel
+  gh_user: parallel
+  repo: parallel
+  img: /static/assets/img/landing/1728152.png
+  desc: Accelerating Random Forest Algorithm with NVIDIA GPU CUDA.
+
+- name: Java Student Dormitory Management System
+  i18n: student
+  gh_user: student
+  repo: student
+  img: /static/assets/img/landing/Java_logo.png
+  desc: It implements student management, dormitory building management, dormitory room management, exchange dormitory management, and can search for students according to dormitories, and find dormitories according to students.
+
+
+
