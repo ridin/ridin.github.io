@@ -19,7 +19,7 @@
   i18n: fami
   gh_user: fami
   repo: fami
-  img: /static/assets/img/landing/12.png
+  img: /static/assets/img/landing/wechat.original.jpg
   desc: Cooperated with teammates to develop Fami (WeChat mini program), an electronic diary book for multiplayer online collaborative editing. Took responsibility of database design and maintenance, programming interface, writing Impact function.
 
 - name: Java Database Management System and Student Course Selection System
