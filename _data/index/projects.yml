@@ -19,7 +19,7 @@
   i18n: fami
   gh_user: fami
   repo: fami
-  img: /static/assets/img/landing/wechat.png
+  img: /static/assets/img/landing/12.png
   desc: Cooperated with teammates to develop Fami (WeChat mini program), an electronic diary book for multiplayer online collaborative editing. Took responsibility of database design and maintenance, programming interface, writing Impact function.
 
 - name: Java Database Management System and Student Course Selection System
@@ -33,7 +33,7 @@
   i18n: web
   gh_user: web
   repo: web
-  img: /static/assets/img/landing/java-web-development.png
+  img: /static/assets/img/landing/23086798.png
   desc: Use Tomcat and Nginx to achieve load balancing and disaster recovery backup.
 
 - name: To Do List Android APP
@@ -47,7 +47,7 @@
   i18n: parallel
   gh_user: parallel
   repo: parallel
-  img: /static/assets/img/landing/1728152.png
+  img: /static/assets/img/landing/Random_forest_diagram_complete.png
   desc: Accelerating Random Forest Algorithm with NVIDIA GPU CUDA.
 
 - name: Java Student Dormitory Management System
