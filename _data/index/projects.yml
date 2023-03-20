@@ -33,7 +33,7 @@
   i18n: dbms
   gh_user: dbms
   repo: dbms
-  img: /static/assets/img/landing/Java_logo.png
+  img: /static/assets/img/landing/dbms.jpg
   desc: Support my own SQL sentences (Automata), implement architectures such as Tuple, Catalog, BufferPool. B+ tree database index (Node query, split, merge and reallocate). Use the LRU algorithm to realize the page replacement algorithm of the buffer. Implement a table-level lock manager that follows the strict two-stage lock protocol, use timeout waiting to solve the deadlock problem, and use the NOSTEAL/FORCE strategy to manage the buffer. Ensure correct course selection through multi-threaded synchronization and locking mechanism.
 
 - name: Java Web Voting System
