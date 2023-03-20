@@ -1,18 +1,25 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: AI battle platform based on Spring Boot
+  i18n: ai
+  gh_user: ai
+  repo: ai
+  img: /static/assets/img/landing/spring-boot-project-logo-1-thegem-blog-default-large.png
+  desc: Use Spring Security - JWT to implement user authentication, and use Redis to cache user login information. Use WebSocket to realize asynchronous two-way communication between client and server, use thread pool to create a new game for matching results, and use RestTemplate to realize HTTP communication between different services. Use the reflection mechanism to dynamically compile user code blocks to obtain decisions for each round, and use the Kafka message queue framework to handle the asynchronous compilation and execution process of the code.
+
 - name: Intelligent Commodity Settlement System
   i18n: intelligent
   gh_user: intelligent
   repo: intelligent
   img: /static/assets/img/landing/Python-logo-notext.svg.png
-  desc: Coded of Object Recognition and Android APP, applied CNN & RNN Model and yolo v3 for training recognition of coke and other objects, and utilized zxing framework for QR code recognition.
+  desc: Coding of Android APP, using darkflow to train object recognition, and using zxing for QR code recognition. Use CNN and RNN models for face recognition, using YOLO v3 for object detection.
 
-- name: Edutainment-based Children’s Educational Application based on Augmented Realityhon
+- name: Edutainment-based Children’s Educational Application based on Augmented Reality
   i18n: ar
   gh_user: ar
   repo: ar
-  img: /static/assets/img/landing/ar.jpg
+  img: /static/assets/img/landing/png-transparent-augmented-reality-virtual-reality-headset-computer-icons-flip-miscellaneous-text-trademark.png
   desc: Adopted Unity and C# language to program dynamic image block of AR products, coded for collision detection and image calling, fulfill my task of testing.
 
 - name: Fami (WeChat mini program for Collaborative Editing Journal between Multiple People)
@@ -20,14 +27,14 @@
   gh_user: fami
   repo: fami
   img: /static/assets/img/landing/wechat.original.jpg
-  desc: Cooperated with teammates to develop Fami (WeChat mini program), an electronic diary book for multiplayer online collaborative editing. Took responsibility of database design and maintenance, programming interface, writing Impact function.
+  desc: Based on the Wafer2 framework, the backend uses the Node.js SDK to access the object storage API. The frontend realizes the picture editing function, supports moving, rotating, zooming, generating preview images and saving editing status of pictures and texts, and the animation is realized by CSS.
 
 - name: Java Database Management System and Student Course Selection System
   i18n: dbms
   gh_user: dbms
   repo: dbms
   img: /static/assets/img/landing/Java_logo.png
-  desc: It supports simple SQL sentences created by myself (Automata), index, cache, network and multithreading. Ensure correct course selection through multi-threaded synchronization and locking mechanism.
+  desc: Support my own SQL sentences (Automata), implement architectures such as Tuple, Catalog, BufferPool. B+ tree database index (Node query, split, merge and reallocate). Use the LRU algorithm to realize the page replacement algorithm of the buffer. Implement a table-level lock manager that follows the strict two-stage lock protocol, use timeout waiting to solve the deadlock problem, and use the NOSTEAL/FORCE strategy to manage the buffer. Ensure correct course selection through multi-threaded synchronization and locking mechanism.
 
 - name: Java Web Voting System
   i18n: web
@@ -41,21 +48,18 @@
   gh_user: android
   repo: android
   img: /static/assets/img/landing/clear-your-mind-1008.png
-  desc: It uses Java to implement task lists that can be managed individually.
+  desc: Use Java to implement task lists that can be managed individually.
 
 - name: Parallel Random Forest
   i18n: parallel
   gh_user: parallel
   repo: parallel
   img: /static/assets/img/landing/Random_forest_diagram_complete.png
-  desc: Accelerating Random Forest Algorithm with NVIDIA GPU CUDA.
+  desc: Accelerate Random Forest Algorithm with NVIDIA GPU CUDA.
 
 - name: Java Student Dormitory Management System
   i18n: student
   gh_user: student
   repo: student
   img: /static/assets/img/landing/Java_logo.png
-  desc: It implements student management, dormitory building management, dormitory room management, exchange dormitory management, and can search for students according to dormitories, and find dormitories according to students.
-
-
-
+  desc: Use Java + MyBatis + MySQL + Spring + JavaScript to realize student management, dormitory building management, dormitory room management, exchange dormitory management, find students by dormitory.
